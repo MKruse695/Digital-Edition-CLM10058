@@ -4,7 +4,7 @@
 
 🇩🇪 [Deutsch](#deutsch) · 🇬🇧 [English](#english)
 
-> **Website:** <(https://mkruse695.github.io/Digital-Edition-CLM10058/>(https://mkruse695.github.io/Digital-Edition-CLM10058/) *(sobald GitHub Pages aktiviert ist / once GitHub Pages is enabled)*
+> **Website:** <(https://mkruse695.github.io/Digital-Edition-CLM10058/> *(sobald GitHub Pages aktiviert ist / once GitHub Pages is enabled)*
 > **Lizenz Edition / Licence (edition):** [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
